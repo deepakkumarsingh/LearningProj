@@ -1,2 +1,2 @@
 # LearningProj
-# To try various stuff
+To try various stuff
